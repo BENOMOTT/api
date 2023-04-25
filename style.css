@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.maps{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+img{
+    margin-top: 40px;
+    margin-left: 40px;
+    border-radius: 20px;
+    border: solid red;
+}
+
+p{
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 20px;
+}
